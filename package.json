@@ -23,7 +23,7 @@
     "@types/koa-bodyparser": "^4.3.10",
     "@types/koa-router": "^7.4.4",
     "@types/node": "^20.5.0",
-    "tsx": "^3.12.7",
+    "tsx": "^4.0.0",
     "typescript": "^5.1.6"
   }
 }
